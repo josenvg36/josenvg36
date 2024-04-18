@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome to my Git! 👋
 
+Hey! My name is Jose, I'm a Mechanical Engineer with experience in ship thruster ⚓ and food processing machinery 🍗 installation and maintenance.  Looking to bridge the gap between engineering and software development, I'm currently at 42 Warsaw, focusing on mastering the C programming language🐤.
+
+This profile showcases projects that combine my engineering background with my developing coding skills. Feel free to reach out if you have any questions!💬
 <!--
 **josenvg36/josenvg36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
